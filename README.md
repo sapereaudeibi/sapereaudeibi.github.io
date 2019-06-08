@@ -1,2 +1,2 @@
 # sapereaudeibi.github.io
-Sapere Aude Ibi site
+Sapere Aude Ibi site.
